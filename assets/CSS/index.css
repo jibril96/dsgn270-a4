@@ -1,0 +1,171 @@
+Ag
+Font 
+Roboto
+Weight 
+400, Regular
+Style 
+normal
+Size 
+14px
+Line height 
+16.41px
+Ag
+Font 
+Roboto
+Weight 
+400, Regular
+Style 
+normal
+Size 
+24px
+Line height 
+28.13px
+#000000
+#FFFFFF
+#C4C4C4
+/* Desktop - 1 */
+
+
+position: relative;
+width: 1874px;
+height: 2794px;
+
+background: #FFFFFF;
+
+
+/* Founded in 2010 in Amsterdam, ETQ derived under the mindset of eliminating over-accessorized branding and focusing primarily on letting the quality of the product speak for itself. Read more */
+
+
+position: absolute;
+width: 691px;
+height: 84px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* My account */
+
+
+position: absolute;
+width: 73px;
+height: 11px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 1317px;
+height: 829px;
+
+background: url(image.png);
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 365px;
+height: 326px;
+
+background: url(image.png);
+
+
+/* Our favorite models */
+
+
+position: absolute;
+width: 274px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* LT 01 Sand */
+
+
+position: absolute;
+width: 152px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* Facebook */
+
+
+position: absolute;
+width: 105px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* Pinterest */
+
+
+position: absolute;
+width: 96px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* Tiktok */
+
+
+position: absolute;
+width: 66px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
